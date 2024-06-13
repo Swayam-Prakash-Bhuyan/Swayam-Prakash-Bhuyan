@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **swayamprakashbhuyan@gmail.com**
 
-- 📄 Know about my experiences [https://read.cv/swayamx](https://read.cv/swayamx)
+- 📄 Know about my experiences [https://read.cv/swayam](https://read.cv/swayam)
 
 - ⚡ Fun fact **I am a Cat (almost)**
 
