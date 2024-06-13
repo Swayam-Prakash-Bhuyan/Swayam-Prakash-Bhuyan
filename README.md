@@ -1,3 +1,5 @@
+![DevOps Cover](https://github.com/Swayam-Prakash-Bhuyan/Swayam-Prakash-Bhuyan/blob/main/Swayam%20Cover.jpg)
+
 <h1 align="center">Hi 👋, I'm Swayam</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
