@@ -33,3 +33,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayam-prakash-bhuyan&show_icons=true&locale=en&layout=compact" alt="swayam-prakash-bhuyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swayam-prakash-bhuyan&show_icons=true&locale=en" alt="swayam-prakash-bhuyan" /></p>
+
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Swayam-Prakash-Bhuyan/Swayam-Prakash-Bhuyan/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Swayam-Prakash-Bhuyan&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
