@@ -11,15 +11,13 @@
 
 - 🔭 I’m currently learning **Advanced Kubernetes**
 
-- 🌱 I’m currently learning **Hugging Face, Kubeflow**
-
-- 💬 Ask me about **Cloud, GitOps, Kubernetes**
+- 💬 Ask me about **Multi Cloud, GitOps, Kubernetes**
 
 - 📫 How to reach me **swayamprakashbhuyan@gmail.com**
 
 - 📄 Know about my experiences [https://read.cv/swayam](https://read.cv/swayam)
 
-- ⚡ Fun fact **I am a Cat (almost)**
+- ⚡ Fun fact: **I am a Cat (almost)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayam-prakash-bhuyan&show_icons=true&locale=en&layout=compact" alt="swayam-prakash-bhuyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swayam-prakash-bhuyan&show_icons=true&locale=en" alt="swayam-prakash-bhuyan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayam-prakash-bhuyan&" alt="swayam-prakash-bhuyan" /></p>
-
