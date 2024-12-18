@@ -37,11 +37,3 @@
     
   ![snake gif](https://github.com/Swayam-Prakash-Bhuyan/Swayam-Prakash-Bhuyan/blob/output/github-snake.svg)
 </div>
-
-
-
-<!-- Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Swayam-Prakash-Bhuyan&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
